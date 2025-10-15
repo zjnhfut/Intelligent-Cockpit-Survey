@@ -1,61 +1,112 @@
 # Intelligent-Cockpit-Survey
 Our paper "Modern Automotive Intelligent Cockpit: Technical Architecture, Taxonomy and Future Development"
 
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/framework%20of%20the%20survey.png)
 Fig1: The framework of the core content of the survey.
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/framework%20of%20the%20survey.png)
 
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Basic%20Technological%20Components.png)
 Fig2: Basic technologies of intelligent cockpits.
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Basic%20Technological%20Components.png)
 
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Functional%20classification.png)
 Fig3: Functional classification of intelligent cockpits.
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Functional%20classification.png)
 
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Evaluation.png)
 Fig4: Evaluation pipeline for intelligent cockpits.
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Evaluation.png)
 
 Paper List
 =====
 Background ＆ Fundamentals
 -----
-- Intelligent cockpit for intelligent connected vehicles: Definition, taxonomy, technology and evaluation                   [![IEEE Xplore](https://ziadoua.github.io/m3-Markdown-Badges/badges/IEEE/ieee1.svg)](https://ieeexplore.ieee.org/document/10345740)
+- Intelligent cockpit for intelligent connected vehicles: Definition, taxonomy, technology and evaluation [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10345740)
 - Scenario-function system for automotive intelligent cockpits: Framework, research progress and perspectives
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+- A comprehensive evaluation model for the intelligent automobile cockpit comfort
+- Intelligent cockpits for connected vehicles: Taxonomy, architecture, interaction technologies, and future directions
+- Application and development of ai technology in automobile intelligent cockpit
+- Development and evaluation study of intelligent cockpit in the age of large models
+- A comprehensive overview of vehicle to everything (v2x) technology for sustainable ev adoption
+- Resource allocation modes in c-v2x: from lte-v2x to 5g-v2x
+- On the design of sidelink for cellular v2x: A literature review and outlook for future
+- From artificial intelligence to explainable artificial intelligence in industry 4.0: a survey on what, how, and where
+- A survey of large language models
+- A survey on cloud service description
+- Secure over-the-air software updates in connected vehicles: A survey
+- Secure firmware updates over the air in intelligent vehicles
+- From hmi to hrir: Human-vehicle interaction design for smart cockpit
+- Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks
+- The digital foundation platform - a multi-layered soa architecture for intelligent connected vehicle operating system
+- A qos aware approach to service-oriented communication in future automotive networks
+- Ai-enhanced cloud-edge-terminal collaborative network: Survey, applications, and future directions
+- Automotive huds: The overlooked safety issues
+- Development of the hmi system that improves the safety and operational convenience by the combination of steering wheel switch and head up display
+- Retrospective and future automotive infotainment systems - 100 years of user interface evolution
+- Detection of real-world driving-induced affective state using physiological signals and multi-view multi-task machine learning
+- Research and practice of intelligent cockpit based on large language model and agent
 
 Driving Convenience
 -----
+- Human-vehicle interaction to support driver’s situation awareness in automated vehicles: A systematic review
+- Federated learning for connected and automated vehicles: A survey of existing approaches and challenges
+- Survey of intelligent and connected vehicle technologies: Architectures, functions and applications
+- Artificial intelligence methods in in-cabin use cases: A survey
+- A two-tiered incentive mechanism design for federated crowd sensing
+- Human-machine interaction towards industry 5.0: Human-centric smart manufacturing
+- Towards intelligent automobile cockpit via a new container architecture
+- Augmented reality head-up display: A visual support during malfunctions in partially automated driving?
+- Sensor fusion of camera and cloud digital twin information for intelligent vehicles
+- In-cabin monitoring system for autonomous vehicles
+- Survey and synthesis of state of the art in driver monitoring
+- Human-machine interfaces and vehicle automation: A review of the literature
+- A review on the development of the in-vehicle human-machine interfaces in driving automation: a design perspective
+- From smart parking towards autonomous valet parking: A survey, challenges and future works
+- A comprehensive survey of v2x cybersecurity mechanisms and future research paths
+- Toward reliable and scalable internet of vehicles: Performance analysis and resource management
+- Vehicular communication networks in the automated driving era
+- Connected car: technologies, issues, future trends
+- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities
+- Improving rnn transducer modeling for end-to-end speech recognition
+- A human-machine interface for cooperative highly automated driving
+- Dual-cockpit human and hardware-in-the-loop test bench for autonomous vehicle development
 
 Driving Safety
 -----
+- Distributed coordinated brake control for longitudinal collision avoidance of multiple connected automated vehicles
+- Driver fatigue detection systems: A review
+- The multimodal driver monitoring database: A naturalistic corpus to study driver attention
+- Accelerated risk assessment for highly automated vehicles: Surrogate-based monte carlo method
+- Towards socially responsive autonomous vehicles: A reinforcement learning framework with driving priors and coordination awareness
+- Driver activity recognition for intelligent vehicles: A deep learning approach
+- Driver gaze region estimation without use of eye movement
+- From semi to fully autonomous vehicles: New emerging risks and ethico-legal challenges for human-machine interactions
+- Experimental security analysis of a modern automobile
+- Does the ar-hud system affect driving behaviour? an eye-tracking experiment study
+- Advancing vulnerable road users safety: Interdisciplinary review on v2x communication and trajectory prediction
 
 Comfort ＆ Health
 -----
+- Active-beacon-based driver sound separation system for autonomous vehicle applications
+- Haptic assistive control with learning-based driver intent recognition for semi-autonomous vehicles
+- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities
+- Electroencephalogram emotion recognition based on empirical mode decomposition and optimal feature selection
+- Driver inattention monitoring system for intelligent vehicles: A review
 
 Entertainment ＆ Recreation
 -----
+- Intelligent in-vehicle interaction technologies
+- Edge computing for interactive media and video streaming
+- Safety aspects of in-vehicle infotainment systems: a systematic literature review from 2012 to 2023
+- Automotive user interfaces and interactive applications in the car
+- Design and performance evaluation of human-machine interface in civil aircraft cockpits based on touch interaction technology
 
 Evaluation ＆ Benchmarking
 -----
+- An evaluation model for the comfort of vehicle intelligent cockpits based on passenger experience
+- Intelligent car cockpit comfort evaluation model based on svm
+- A comfort evaluation method based on an intelligent car cockpit
+- Integrated networking, caching, and computing for connected vehicles: A deep reinforcement learning approach
+- Multi-modal user experience evaluation on in-vehicle hmi systems using eye-tracking, facial expression, and finger-tracking for the smart cockpit
+- Effects of adaptive cruise control and highly automated driving on workload and situation awareness: A review of the empirical evidence
+- The evolution of mental model, trust and acceptance of adaptive cruise control in relation to initial information
+- Drivers’ mental engagement analysis using multi-sensor fusion approaches based on deep convolutional neural networks
 
 Industry Examples
 =====
