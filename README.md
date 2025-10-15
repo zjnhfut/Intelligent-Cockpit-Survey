@@ -40,6 +40,7 @@ Background ＆ Fundamentals
 - Development of the hmi system that improves the safety and operational convenience by the combination of steering wheel switch and head up display [![SAE](https://img.shields.io/badge/SAE%20International-Article-bluegray)](https://www.sae.org/papers/development-hmi-system-improves-safety-operational-convenience-combination-steering-wheel-switch-head-display-2005-01-0438)
 - Retrospective and future automotive infotainment systems - 100 years of user interface evolution [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-49448-7_1)
 - Detection of real-world driving-induced affective state using physiological signals and multi-view multi-task machine learning [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8925190)
+- An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10682435)
 
 Driving Convenience
 -----
@@ -65,6 +66,7 @@ Driving Convenience
 - Improving rnn transducer modeling for end-to-end speech recognition [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/1909.12415)
 - A human-machine interface for cooperative highly automated driving [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-41682-3_49)
 - Dual-cockpit human and hardware-in-the-loop test bench for autonomous vehicle development [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10530467)
+- A Dynamic Neural Field Approach for Intelligent Cockpits: Online Learning and Prediction of Traveling Routines [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10700688)
 
 Driving Safety
 -----
@@ -79,6 +81,7 @@ Driving Safety
 - Experimental security analysis of a modern automobile [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/5504804)
 - Does the ar-hud system affect driving behaviour? an eye-tracking experiment study [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S2590198223000143)
 - Advancing vulnerable road users safety: Interdisciplinary review on v2x communication and trajectory prediction [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10814969)
+- Vehicle Active Steering Control System Based on Human Mechanical Impedance Properties of the Arms [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/6810159)
 
 Comfort ＆ Health
 -----
