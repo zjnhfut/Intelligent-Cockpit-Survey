@@ -15,6 +15,47 @@ Fig4: Evaluation pipeline for intelligent cockpits.
 
 Paper List
 =====
+Background ＆ Fundamentals
+-----
+- Intelligent cockpit for intelligent connected vehicles: Definition, taxonomy, technology and evaluation                   [![IEEE Xplore](https://ziadoua.github.io/m3-Markdown-Badges/badges/IEEE/ieee1.svg)](https://ieeexplore.ieee.org/document/10345740)
+- Scenario-function system for automotive intelligent cockpits: Framework, research progress and perspectives
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Driving Convenience
+-----
+
+Driving Safety
+-----
+
+Comfort ＆ Health
+-----
+
+Entertainment ＆ Recreation
+-----
+
+Evaluation ＆ Benchmarking
+-----
 
 Industry Examples
 =====
