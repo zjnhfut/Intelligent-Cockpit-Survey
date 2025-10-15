@@ -31,8 +31,8 @@ Background ＆ Fundamentals
 - A survey on cloud service description [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301613)
 - Secure over-the-air software updates in connected vehicles: A survey [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1389128619314963)
 - Secure firmware updates over the air in intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/4531926)
-- From hmi to hri: Human-vehicle interaction design for smart cockpit [![SpringerLink](https://img.shields.io/badge/Springer-Link-purple?logo=springer)](https://link.springer.com/content/pdf/10.1007/978-3-319-91244-8_35.pdf)
-- Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks [![SpringerLink](https://img.shields.io/badge/Springer-Link-purple?logo=springer)](https://link.springer.com/article/10.1007/s11227-025-07635-7)
+- From hmi to hri: Human-vehicle interaction design for smart cockpit [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/content/pdf/10.1007/978-3-319-91244-8_35.pdf)
+- Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s11227-025-07635-7)
 - The digital foundation platform - a multi-layered soa architecture for intelligent connected vehicle operating system [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2210.08818)
 - A qos aware approach to service-oriented communication in future automotive networks [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9062794)
 - Ai-enhanced cloud-edge-terminal collaborative network: Survey, applications, and future directions [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10336879)
@@ -43,9 +43,9 @@ Background ＆ Fundamentals
 
 Driving Convenience
 -----
-- Human-vehicle interaction to support driver’s situation awareness in automated vehicles: A systematic review
-- Federated learning for connected and automated vehicles: A survey of existing approaches and challenges
-- Survey of intelligent and connected vehicle technologies: Architectures, functions and applications
+- Human-vehicle interaction to support driver’s situation awareness in automated vehicles: A systematic review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9864310)
+- Federated learning for connected and automated vehicles: A survey of existing approaches and challenges [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10316635)
+- Survey of intelligent and connected vehicle technologies: Architectures, functions and applications [![SciOpen](https://img.shields.io/badge/SciOpen-Article-blue)](https://www.sciopen.com/article/XXXXXX)
 - Artificial intelligence methods in in-cabin use cases: A survey
 - A two-tiered incentive mechanism design for federated crowd sensing
 - Human-machine interaction towards industry 5.0: Human-centric smart manufacturing
