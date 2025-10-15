@@ -82,30 +82,30 @@ Driving Safety
 
 Comfort ＆ Health
 -----
-- Active-beacon-based driver sound separation system for autonomous vehicle applications
-- Haptic assistive control with learning-based driver intent recognition for semi-autonomous vehicles
-- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities
-- Electroencephalogram emotion recognition based on empirical mode decomposition and optimal feature selection
-- Driver inattention monitoring system for intelligent vehicles: A review
+- Active-beacon-based driver sound separation system for autonomous vehicle applications [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S0003682X20306538)
+- Haptic assistive control with learning-based driver intent recognition for semi-autonomous vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9662198)
+- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9629359)
+- Electroencephalogram emotion recognition based on empirical mode decomposition and optimal feature selection [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8452989)
+- Driver inattention monitoring system for intelligent vehicles: A review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/5665773)
 
 Entertainment ＆ Recreation
 -----
-- Intelligent in-vehicle interaction technologies
-- Edge computing for interactive media and video streaming
-- Safety aspects of in-vehicle infotainment systems: a systematic literature review from 2012 to 2023
-- Automotive user interfaces and interactive applications in the car
-- Design and performance evaluation of human-machine interface in civil aircraft cockpits based on touch interaction technology
+- Intelligent in-vehicle interaction technologies [![Wiley](https://img.shields.io/badge/Wiley-Online%20Library-blue?logo=wiley)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202100122)
+- Edge computing for interactive media and video streaming [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/7946410)
+- Safety aspects of in-vehicle infotainment systems: a systematic literature review from 2012 to 2023 [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/2079-9292/13/13/2563)
+- Automotive user interfaces and interactive applications in the car [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s00779-012-0520-7)
+- Design and performance evaluation of human-machine interface in civil aircraft cockpits based on touch interaction technology [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3689236.3696042)
 
 Evaluation ＆ Benchmarking
 -----
-- An evaluation model for the comfort of vehicle intelligent cockpits based on passenger experience
-- Intelligent car cockpit comfort evaluation model based on svm
-- A comfort evaluation method based on an intelligent car cockpit
-- Integrated networking, caching, and computing for connected vehicles: A deep reinforcement learning approach
-- Multi-modal user experience evaluation on in-vehicle hmi systems using eye-tracking, facial expression, and finger-tracking for the smart cockpit
-- Effects of adaptive cruise control and highly automated driving on workload and situation awareness: A review of the empirical evidence
-- The evolution of mental model, trust and acceptance of adaptive cruise control in relation to initial information
-- Drivers’ mental engagement analysis using multi-sensor fusion approaches based on deep convolutional neural networks
+- An evaluation model for the comfort of vehicle intelligent cockpits based on passenger experience [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/2071-1050/14/11/6827)
+- Intelligent car cockpit comfort evaluation model based on svm [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10440081)
+- A comfort evaluation method based on an intelligent car cockpit [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-00CCBB?logo=researchgate)](https://www.researchgate.net/publication/363240226_A_comfort_evaluation_method_based_on_an_intelligent_car_cockpit)
+- Integrated networking, caching, and computing for connected vehicles: A deep reinforcement learning approach [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8061008)
+- Multi-modal user experience evaluation on in-vehicle hmi systems using eye-tracking, facial expression, and finger-tracking for the smart cockpit [![Inderscience](https://img.shields.io/badge/Inderscience-Online%20Library-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJVP.2022.125931)
+- Effects of adaptive cruise control and highly automated driving on workload and situation awareness: A review of the empirical evidence [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847814000904)
+- The evolution of mental model, trust and acceptance of adaptive cruise control in relation to initial information [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847813000028)
+- Drivers’ mental engagement analysis using multi-sensor fusion approaches based on deep convolutional neural networks [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/23/17/7346/xml)
 
 Industry Examples
 =====
