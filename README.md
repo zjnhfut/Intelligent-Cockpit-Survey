@@ -46,25 +46,25 @@ Driving Convenience
 - Human-vehicle interaction to support driver’s situation awareness in automated vehicles: A systematic review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9864310)
 - Federated learning for connected and automated vehicles: A survey of existing approaches and challenges [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10316635)
 - Survey of intelligent and connected vehicle technologies: Architectures, functions and applications [![SciOpen](https://img.shields.io/badge/SciOpen-Article-blue)](https://www.sciopen.com/article/XXXXXX)
-- Artificial intelligence methods in in-cabin use cases: A survey
-- A two-tiered incentive mechanism design for federated crowd sensing
-- Human-machine interaction towards industry 5.0: Human-centric smart manufacturing
-- Towards intelligent automobile cockpit via a new container architecture
-- Augmented reality head-up display: A visual support during malfunctions in partially automated driving?
-- Sensor fusion of camera and cloud digital twin information for intelligent vehicles
-- In-cabin monitoring system for autonomous vehicles
-- Survey and synthesis of state of the art in driver monitoring
-- Human-machine interfaces and vehicle automation: A review of the literature
-- A review on the development of the in-vehicle human-machine interfaces in driving automation: a design perspective
-- From smart parking towards autonomous valet parking: A survey, challenges and future works
-- A comprehensive survey of v2x cybersecurity mechanisms and future research paths
-- Toward reliable and scalable internet of vehicles: Performance analysis and resource management
-- Vehicular communication networks in the automated driving era
-- Connected car: technologies, issues, future trends
-- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities
-- Improving rnn transducer modeling for end-to-end speech recognition
-- A human-machine interface for cooperative highly automated driving
-- Dual-cockpit human and hardware-in-the-loop test bench for autonomous vehicle development
+- Artificial intelligence methods in in-cabin use cases: A survey [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9356815)
+- A two-tiered incentive mechanism design for federated crowd sensing [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s42486-022-00111-8)
+- Human-machine interaction towards industry 5.0: Human-centric smart manufacturing [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S2950550X2400013X)
+- Towards intelligent automobile cockpit via a new container architecture [![USENIX](https://img.shields.io/badge/USENIX-Conference-red)](https://www.usenix.org/conference/nsdi24/presentation/jiang-lin)
+- Augmented reality head-up display: A visual support during malfunctions in partially automated driving? [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9599523)
+- Sensor fusion of camera and cloud digital twin information for intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9304643)
+- In-cabin monitoring system for autonomous vehicles [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-00CCBB?logo=researchgate)](https://www.researchgate.net/publication/361259221_In-Cabin_Monitoring_System_for_Autonomous_Vehicles)
+- Survey and synthesis of state of the art in driver monitoring [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/21/16/5558#:~:text=This%20paper%20surveys%20the%20state%20of%20the%20art,view%20of%20the%20many%20characterization%20techniques%20of%20DM.)
+- Human-machine interfaces and vehicle automation: A review of the literature and recommendations for system Design, Feedback, and alerts [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847824002213)
+- A review on the development of the in-vehicle human-machine interfaces in driving automation: a design perspective [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3640792.3675718)
+- From smart parking towards autonomous valet parking: A survey, challenges and future works [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1084804520303921)
+- A comprehensive survey of v2x cybersecurity mechanisms and future research paths [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10026338)
+- Toward reliable and scalable internet of vehicles: Performance analysis and resource management [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8938746)
+- Vehicular communication networks in the automated driving era [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8466351)
+- Connected car: technologies, issues, future trends [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/2971482)
+- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9629359)
+- Improving rnn transducer modeling for end-to-end speech recognition [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/1909.12415)
+- A human-machine interface for cooperative highly automated driving [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-41682-3_49)
+- Dual-cockpit human and hardware-in-the-loop test bench for autonomous vehicle development [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10530467)
 
 Driving Safety
 -----
