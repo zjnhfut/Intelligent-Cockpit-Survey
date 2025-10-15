@@ -31,16 +31,15 @@ Background ＆ Fundamentals
 - A survey on cloud service description [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301613)
 - Secure over-the-air software updates in connected vehicles: A survey [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1389128619314963)
 - Secure firmware updates over the air in intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/4531926)
-- From hmi to hri: Human-vehicle interaction design for smart cockpit
-- Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks
-- The digital foundation platform - a multi-layered soa architecture for intelligent connected vehicle operating system
-- A qos aware approach to service-oriented communication in future automotive networks
-- Ai-enhanced cloud-edge-terminal collaborative network: Survey, applications, and future directions
-- Automotive huds: The overlooked safety issues
-- Development of the hmi system that improves the safety and operational convenience by the combination of steering wheel switch and head up display
-- Retrospective and future automotive infotainment systems - 100 years of user interface evolution
-- Detection of real-world driving-induced affective state using physiological signals and multi-view multi-task machine learning
-- Research and practice of intelligent cockpit based on large language model and agent
+- From hmi to hri: Human-vehicle interaction design for smart cockpit [![SpringerLink](https://img.shields.io/badge/Springer-Link-purple?logo=springer)](https://link.springer.com/content/pdf/10.1007/978-3-319-91244-8_35.pdf)
+- Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks [![SpringerLink](https://img.shields.io/badge/Springer-Link-purple?logo=springer)](https://link.springer.com/article/10.1007/s11227-025-07635-7)
+- The digital foundation platform - a multi-layered soa architecture for intelligent connected vehicle operating system [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2210.08818)
+- A qos aware approach to service-oriented communication in future automotive networks [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9062794)
+- Ai-enhanced cloud-edge-terminal collaborative network: Survey, applications, and future directions [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10336879)
+- Automotive huds: The overlooked safety issues [![PubMed](https://img.shields.io/badge/PubMed-Link-blue?logo=pubmed)](https://pubmed.ncbi.nlm.nih.gov/9302890/)
+- Development of the hmi system that improves the safety and operational convenience by the combination of steering wheel switch and head up display [![SAE](https://img.shields.io/badge/SAE%20International-Article-bluegray)](https://www.sae.org/papers/development-hmi-system-improves-safety-operational-convenience-combination-steering-wheel-switch-head-display-2005-01-0438)
+- Retrospective and future automotive infotainment systems - 100 years of user interface evolution [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-49448-7_1)
+- Detection of real-world driving-induced affective state using physiological signals and multi-view multi-task machine learning [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8925190)
 
 Driving Convenience
 -----
