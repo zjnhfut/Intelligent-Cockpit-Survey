@@ -68,17 +68,17 @@ Driving Convenience
 
 Driving Safety
 -----
-- Distributed coordinated brake control for longitudinal collision avoidance of multiple connected automated vehicles
-- Driver fatigue detection systems: A review
-- The multimodal driver monitoring database: A naturalistic corpus to study driver attention
-- Accelerated risk assessment for highly automated vehicles: Surrogate-based monte carlo method
-- Towards socially responsive autonomous vehicles: A reinforcement learning framework with driving priors and coordination awareness
-- Driver activity recognition for intelligent vehicles: A deep learning approach
-- Driver gaze region estimation without use of eye movement
-- From semi to fully autonomous vehicles: New emerging risks and ethico-legal challenges for human-machine interactions
-- Experimental security analysis of a modern automobile
-- Does the ar-hud system affect driving behaviour? an eye-tracking experiment study
-- Advancing vulnerable road users safety: Interdisciplinary review on v2x communication and trajectory prediction
+- Distributed coordinated brake control for longitudinal collision avoidance of multiple connected automated vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9854148)
+- Driver fatigue detection systems: A review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8482470)
+- The multimodal driver monitoring database: A naturalistic corpus to study driver attention [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9507390)
+- Accelerated risk assessment for highly automated vehicles: Surrogate-based monte carlo method [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10337750)
+- Towards socially responsive autonomous vehicles: A reinforcement learning framework with driving priors and coordination awareness [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10315232)
+- Driver activity recognition for intelligent vehicles: A deep learning approach [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8678436)
+- Driver gaze region estimation without use of eye movement [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/7478592)
+- From semi to fully autonomous vehicles: New emerging risks and ethico-legal challenges for human-machine interactions [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S1369847818308556)
+- Experimental security analysis of a modern automobile [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/5504804)
+- Does the ar-hud system affect driving behaviour? an eye-tracking experiment study [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S2590198223000143)
+- Advancing vulnerable road users safety: Interdisciplinary review on v2x communication and trajectory prediction [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10814969)
 
 Comfort ＆ Health
 -----
