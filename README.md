@@ -18,20 +18,20 @@ Paper List
 Background ＆ Fundamentals
 -----
 - Intelligent cockpit for intelligent connected vehicles: Definition, taxonomy, technology and evaluation [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10345740)
-- Scenario-function system for automotive intelligent cockpits: Framework, research progress and perspectives
-- A comprehensive evaluation model for the intelligent automobile cockpit comfort
-- Intelligent cockpits for connected vehicles: Taxonomy, architecture, interaction technologies, and future directions
-- Application and development of ai technology in automobile intelligent cockpit
-- Development and evaluation study of intelligent cockpit in the age of large models
-- A comprehensive overview of vehicle to everything (v2x) technology for sustainable ev adoption
-- Resource allocation modes in c-v2x: from lte-v2x to 5g-v2x
-- On the design of sidelink for cellular v2x: A literature review and outlook for future
-- From artificial intelligence to explainable artificial intelligence in industry 4.0: a survey on what, how, and where
-- A survey of large language models
-- A survey on cloud service description
-- Secure over-the-air software updates in connected vehicles: A survey
-- Secure firmware updates over the air in intelligent vehicles
-- From hmi to hrir: Human-vehicle interaction design for smart cockpit
+- Scenario-function system for automotive intelligent cockpits: Framework, research progress and perspectives [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10485433)
+- A comprehensive evaluation model for the intelligent automobile cockpit comfort [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-Nature-red?logo=nature&logoColor=white)](https://www.nature.com/articles/s41598-022-19261-x)
+- Intelligent cockpits for connected vehicles: Taxonomy, architecture, interaction technologies, and future directions [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/24/16/5172)
+- Application and development of ai technology in automobile intelligent cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9750719)
+- Development and evaluation study of intelligent cockpit in the age of large models [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.15795)
+- A comprehensive overview of vehicle to everything (v2x) technology for sustainable ev adoption [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23027020)
+- Resource allocation modes in c-v2x: from lte-v2x to 5g-v2x [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9734746)
+- On the design of sidelink for cellular v2x: A literature review and outlook for future [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9471886)
+- From artificial intelligence to explainable artificial intelligence in industry 4.0: a survey on what, how, and where [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9695219)
+- A survey of large language models [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2303.18223)
+- A survey on cloud service description [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301613)
+- Secure over-the-air software updates in connected vehicles: A survey [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1389128619314963)
+- Secure firmware updates over the air in intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/4531926)
+- From hmi to hri: Human-vehicle interaction design for smart cockpit
 - Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks
 - The digital foundation platform - a multi-layered soa architecture for intelligent connected vehicle operating system
 - A qos aware approach to service-oriented communication in future automotive networks
