@@ -10,8 +10,17 @@ Fig2: Basic technologies of intelligent cockpits.
 Fig3: Functional classification of intelligent cockpits.
 ![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Functional%20classification.png)
 
-Fig4: Evaluation pipeline for intelligent cockpits.
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Evaluation.png)
+Fig4: Function Testing Pipeline
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Function%20Testing.png)
+
+Fig5: Performance Testing Pipeline
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Performance%20Testing.png)
+
+Fig6: Safety Testing Pipeline
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Safety%20Testing.png)
+
+Fig7: User Experience Assessment Pipeline
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/User%20Experience%20Assessment.png)
 
 Paper List
 =====
