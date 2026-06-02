@@ -2,7 +2,7 @@
 Our paper "Modern Automotive Intelligent Cockpit: Technical Architecture, Taxonomy and Future Development"
 
 Fig1: The framework of the survey.
-![]()
+![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/framework%20of%20the%20survey.png)
 
 Fig2: Basic technologies of intelligent cockpits.
 ![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Basic%20Technological%20Components.png)
