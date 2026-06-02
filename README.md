@@ -71,6 +71,21 @@ Background ＆ Fundamentals
 - Retrospective and future automotive infotainment systems - 100 years of user interface evolution [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-49448-7_1)
 - Detection of real-world driving-induced affective state using physiological signals and multi-view multi-task machine learning [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8925190)
 - An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10682435)
+- Safety-enhanced autonomous driving using interpretable sensor fusion transformer [![PMLR](https://img.shields.io/badge/PMLR-Proceedings-blue)](https://proceedings.mlr.press/v205/shao23a.html)
+- Milestones in autonomous driving and intelligent vehicles: Survey of surveys [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TIV.2022.3223131)
+- Future directions of intelligent vehicles: Potentials, possibilities, and perspectives [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TIV.2022.3157049)
+- Cogemonet: A cognitive-feature-augmented driver emotion recognition model for smart cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TCSS.2021.3127935)
+- Driver emotion recognition for intelligent vehicles: A survey [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3388790)
+- Survey of human-robot collaboration in industrial settings: Awareness, intelligence, and compliance [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TSMC.2020.3041231)
+- Automotive Cockpit-Driving Integration for Human-Centric Autonomous Driving: A Survey [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/THMS.2025.3616947)
+- HydraFusion: Context-aware selective sensor fusion for robust and efficient autonomous vehicle perception [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/ICCPS54341.2022.00013)
+- Driver behavior recognition via interwoven deep convolutional neural nets with multi-stream inputs [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/ACCESS.2020.3032344)
+- Lane change decision-making through deep reinforcement learning with rule-based constraints [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/IJCNN.2019.8852110)
+- Cockpit-Llama: Driver Intent Prediction in Intelligent Cockpit via Large Language Model [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/25/1/64)
+- Exploring expert perceptions about the cyber security and privacy of Connected and Autonomous Vehicles: A thematic analysis approach [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S1369847820305386)
+- A survey on hybrid human-artificial intelligence for autonomous driving [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TITS.2021.3074695)
+- A survey of EEG-based driver state and behavior detection for intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TBIOM.2024.3400866)
+- Review of electrical and electronic architectures for autonomous vehicles: Topologies, networking and simulators [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s42154-023-00266-9)
 
 Driving Convenience
 -----
@@ -97,6 +112,12 @@ Driving Convenience
 - A human-machine interface for cooperative highly automated driving [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-41682-3_49)
 - Dual-cockpit human and hardware-in-the-loop test bench for autonomous vehicle development [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10530467)
 - A Dynamic Neural Field Approach for Intelligent Cockpits: Online Learning and Prediction of Traveling Routines [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10700688)
+- Automotive augmented reality head-up displays [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/2072-666X/15/4/442)
+- Driver Interaction Intent Prediction With Dynamic Scene Semantic Fusion for Intelligent Cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TII.2025.3642533)
+- From passive to active: Towards conversational in-vehicle navigation through large language models [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-031-61353-1_11)
+- IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit [![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-blue)](https://aclanthology.org/2025.findings-acl.798/)
+- Knowledge graph construction for intelligent cockpits based on large language models [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-Nature-red?logo=nature&logoColor=white)](https://www.nature.com/articles/s41598-025-92002-y)
+- Enhance sample efficiency and robustness of end-to-end urban autonomous driving via semantic masked world model [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TITS.2024.3400227)
 
 Driving Safety
 -----
@@ -120,6 +141,10 @@ Comfort ＆ Health
 - Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9629359)
 - Electroencephalogram emotion recognition based on empirical mode decomposition and optimal feature selection [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8452989)
 - Driver inattention monitoring system for intelligent vehicles: A review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/5665773)
+- A feedback active control approach to road noise based on a single microphone sensor to improve automotive cabin sound comfort [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/24/8/2515)
+- Air quality inside motor vehicles' cabins: A review [![SAGE](https://img.shields.io/badge/SAGE-Journals-orange)](https://journals.sagepub.com/doi/abs/10.1177/1420326X16679217)
+- Randomized cross-over study of in-vehicle cabin air filtration, air pollution exposure, and acute changes to heart rate variability, saliva cortisol, and cognitive function [![ACS](https://img.shields.io/badge/ACS-Publications-red)](https://pubs.acs.org/doi/10.1021/acs.est.2c06556)
+- A systematic review on modelling the thermal environment of vehicle cabins [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1359431124018106)
 
 Entertainment ＆ Recreation
 -----
@@ -139,6 +164,8 @@ Evaluation ＆ Benchmarking
 - Effects of adaptive cruise control and highly automated driving on workload and situation awareness: A review of the empirical evidence [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847814000904)
 - The evolution of mental model, trust and acceptance of adaptive cruise control in relation to initial information [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847813000028)
 - Drivers’ mental engagement analysis using multi-sensor fusion approaches based on deep convolutional neural networks [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/23/17/7346/xml)
+- Driver emotion recognition for intelligent vehicles: A survey [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3388790)
+- IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit [![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-blue)](https://aclanthology.org/2025.findings-acl.798/)
 
 Industry Examples
 =====
