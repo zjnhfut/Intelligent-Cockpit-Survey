@@ -1,26 +1,61 @@
 # Intelligent-Cockpit-Survey
 Our paper "Modern Automotive Intelligent Cockpit: Technical Architecture, Taxonomy and Future Development"
 
-Fig1: The framework of the survey.
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/framework%20of%20the%20survey.png)
+<p align="center">
+  <b>Fig. 1.</b> The framework of the survey.
+</p>
 
-Fig2: Basic technologies of intelligent cockpits.
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Basic%20Technological%20Components.png)
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/framework%20of%20the%20survey.png?raw=true" alt="The framework of the survey" width="750">
+</p>
 
-Fig3: Functional classification of intelligent cockpits.
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Functional%20classification.png)
+<p align="center">
+  <b>Fig. 2.</b> Basic technologies of intelligent cockpits.
+</p>
 
-Fig4: Function Testing Pipeline
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Function%20Testing.png)
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Basic%20Technological%20Components.png?raw=true" alt="Basic technologies of intelligent cockpits" width="750">
+</p>
 
-Fig5: Performance Testing Pipeline
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Performance%20Testing.png)
+<p align="center">
+  <b>Fig. 3.</b> Functional classification of intelligent cockpits.
+</p>
 
-Fig6: Safety Testing Pipeline
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Safety%20Testing.png)
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Functional%20classification.png?raw=true" alt="Functional classification of intelligent cockpits" width="750">
+</p>
 
-Fig7: User Experience Assessment Pipeline
-![](https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/User%20Experience%20Assessment.png)
+<p align="center">
+  <b>Fig. 4.</b> Functional Testing Pipeline.
+</p>
+
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Function%20Testing.png?raw=true" alt="Functional Testing Pipeline" width="750">
+</p>
+
+<p align="center">
+  <b>Fig. 5.</b> Performance Testing Pipeline.
+</p>
+
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Performance%20Testing.png?raw=true" alt="Performance Testing Pipeline" width="750">
+</p>
+
+<p align="center">
+  <b>Fig. 6.</b> Safety Testing Pipeline.
+</p>
+
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/Safety%20Testing.png?raw=true" alt="Safety Testing Pipeline" width="750">
+</p>
+
+<p align="center">
+  <b>Fig. 7.</b> User Experience Assessment Pipeline.
+</p>
+
+<p align="center">
+  <img src="https://github.com/zjnhfut/Intelligent-Cockpit-Survey/blob/main/User%20Experience%20Assessment.png?raw=true" alt="User Experience Assessment Pipeline" width="750">
+</p>
 
 Paper List
 =====
