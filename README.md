@@ -1,218 +1,219 @@
 # Intelligent-Cockpit-Survey
-Our paper "Modern Automotive Intelligent Cockpit: Technical Architecture, Taxonomy and Future Development"
 
-Paper List
-=====
-Background ＆ Fundamentals
------
-- Intelligent cockpit for intelligent connected vehicles: Definition, taxonomy, technology and evaluation [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10345740)
-- Scenario-function system for automotive intelligent cockpits: Framework, research progress and perspectives [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10485433)
-- A comprehensive evaluation model for the intelligent automobile cockpit comfort [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-Nature-red?logo=nature&logoColor=white)](https://www.nature.com/articles/s41598-022-19261-x)
-- Intelligent cockpits for connected vehicles: Taxonomy, architecture, interaction technologies, and future directions [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/24/16/5172)
-- Application and development of ai technology in automobile intelligent cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9750719)
-- Development and evaluation study of intelligent cockpit in the age of large models [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.15795)
-- A comprehensive overview of vehicle to everything (v2x) technology for sustainable ev adoption [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23027020)
-- Resource allocation modes in c-v2x: from lte-v2x to 5g-v2x [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9734746)
-- On the design of sidelink for cellular v2x: A literature review and outlook for future [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9471886)
-- From artificial intelligence to explainable artificial intelligence in industry 4.0: a survey on what, how, and where [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9695219)
-- A survey of large language models [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2303.18223)
-- A survey on cloud service description [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1084804517301613)
-- Secure over-the-air software updates in connected vehicles: A survey [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1389128619314963)
-- Secure firmware updates over the air in intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/4531926)
-- From hmi to hri: Human-vehicle interaction design for smart cockpit [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/content/pdf/10.1007/978-3-319-91244-8_35.pdf)
-- Safety measures in automotive operating system: a comprehensive review of trends and defense frameworks [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s11227-025-07635-7)
-- The digital foundation platform - a multi-layered soa architecture for intelligent connected vehicle operating system [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/2210.08818)
-- A qos aware approach to service-oriented communication in future automotive networks [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9062794)
-- Ai-enhanced cloud-edge-terminal collaborative network: Survey, applications, and future directions [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10336879)
-- Automotive huds: The overlooked safety issues [![PubMed](https://img.shields.io/badge/PubMed-Link-blue?logo=pubmed)](https://pubmed.ncbi.nlm.nih.gov/9302890/)
-- Development of the hmi system that improves the safety and operational convenience by the combination of steering wheel switch and head up display [![SAE](https://img.shields.io/badge/SAE%20International-Article-bluegray)](https://www.sae.org/papers/development-hmi-system-improves-safety-operational-convenience-combination-steering-wheel-switch-head-display-2005-01-0438)
-- Retrospective and future automotive infotainment systems - 100 years of user interface evolution [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-49448-7_1)
-- Detection of real-world driving-induced affective state using physiological signals and multi-view multi-task machine learning [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8925190)
-- An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10682435)
-- Safety-enhanced autonomous driving using interpretable sensor fusion transformer [![PMLR](https://img.shields.io/badge/PMLR-Proceedings-blue)](https://proceedings.mlr.press/v205/shao23a.html)
-- Milestones in autonomous driving and intelligent vehicles: Survey of surveys [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TIV.2022.3223131)
-- Future directions of intelligent vehicles: Potentials, possibilities, and perspectives [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TIV.2022.3157049)
-- Cogemonet: A cognitive-feature-augmented driver emotion recognition model for smart cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TCSS.2021.3127935)
-- Driver emotion recognition for intelligent vehicles: A survey [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3388790)
-- Survey of human-robot collaboration in industrial settings: Awareness, intelligence, and compliance [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TSMC.2020.3041231)
-- Automotive Cockpit-Driving Integration for Human-Centric Autonomous Driving: A Survey [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/THMS.2025.3616947)
-- HydraFusion: Context-aware selective sensor fusion for robust and efficient autonomous vehicle perception [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/ICCPS54341.2022.00013)
-- Driver behavior recognition via interwoven deep convolutional neural nets with multi-stream inputs [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/ACCESS.2020.3032344)
-- Lane change decision-making through deep reinforcement learning with rule-based constraints [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/IJCNN.2019.8852110)
-- Cockpit-Llama: Driver Intent Prediction in Intelligent Cockpit via Large Language Model [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/25/1/64)
-- Exploring expert perceptions about the cyber security and privacy of Connected and Autonomous Vehicles: A thematic analysis approach [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S1369847820305386)
-- A survey on hybrid human-artificial intelligence for autonomous driving [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TITS.2021.3074695)
-- A survey of EEG-based driver state and behavior detection for intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TBIOM.2024.3400866)
-- Review of electrical and electronic architectures for autonomous vehicles: Topologies, networking and simulators [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s42154-023-00266-9)
+A collection of literature and industry examples accompanying our paper **"Modern Automotive Intelligent Cockpit: Technical Architecture, Taxonomy and Future Development"**.
 
-Driving Convenience
------
-- Human-vehicle interaction to support driver’s situation awareness in automated vehicles: A systematic review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9864310)
-- Federated learning for connected and automated vehicles: A survey of existing approaches and challenges [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10316635)
-- Survey of intelligent and connected vehicle technologies: Architectures, functions and applications [![SciOpen](https://img.shields.io/badge/SciOpen-Article-blue)](https://www.sciopen.com/article/XXXXXX)
-- Artificial intelligence methods in in-cabin use cases: A survey [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9356815)
-- A two-tiered incentive mechanism design for federated crowd sensing [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s42486-022-00111-8)
-- Human-machine interaction towards industry 5.0: Human-centric smart manufacturing [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S2950550X2400013X)
-- Towards intelligent automobile cockpit via a new container architecture [![USENIX](https://img.shields.io/badge/USENIX-Conference-red)](https://www.usenix.org/conference/nsdi24/presentation/jiang-lin)
-- Augmented reality head-up display: A visual support during malfunctions in partially automated driving? [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9599523)
-- Sensor fusion of camera and cloud digital twin information for intelligent vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9304643)
-- In-cabin monitoring system for autonomous vehicles [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-00CCBB?logo=researchgate)](https://www.researchgate.net/publication/361259221_In-Cabin_Monitoring_System_for_Autonomous_Vehicles)
-- Survey and synthesis of state of the art in driver monitoring [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/21/16/5558#:~:text=This%20paper%20surveys%20the%20state%20of%20the%20art,view%20of%20the%20many%20characterization%20techniques%20of%20DM.)
-- Human-machine interfaces and vehicle automation: A review of the literature and recommendations for system Design, Feedback, and alerts [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847824002213)
-- A review on the development of the in-vehicle human-machine interfaces in driving automation: a design perspective [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3640792.3675718)
-- From smart parking towards autonomous valet parking: A survey, challenges and future works [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1084804520303921)
-- A comprehensive survey of v2x cybersecurity mechanisms and future research paths [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10026338)
-- Toward reliable and scalable internet of vehicles: Performance analysis and resource management [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8938746)
-- Vehicular communication networks in the automated driving era [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8466351)
-- Connected car: technologies, issues, future trends [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/2971482)
-- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9629359)
-- Improving rnn transducer modeling for end-to-end speech recognition [![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv)](https://arxiv.org/abs/1909.12415)
-- A human-machine interface for cooperative highly automated driving [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-319-41682-3_49)
-- Dual-cockpit human and hardware-in-the-loop test bench for autonomous vehicle development [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10530467)
-- A Dynamic Neural Field Approach for Intelligent Cockpits: Online Learning and Prediction of Traveling Routines [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10700688)
-- Automotive augmented reality head-up displays [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/2072-666X/15/4/442)
-- Driver Interaction Intent Prediction With Dynamic Scene Semantic Fusion for Intelligent Cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TII.2025.3642533)
-- From passive to active: Towards conversational in-vehicle navigation through large language models [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/chapter/10.1007/978-3-031-61353-1_11)
-- IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit [![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-blue)](https://aclanthology.org/2025.findings-acl.798/)
-- Knowledge graph construction for intelligent cockpits based on large language models [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-Nature-red?logo=nature&logoColor=white)](https://www.nature.com/articles/s41598-025-92002-y)
-- Enhance sample efficiency and robustness of end-to-end urban autonomous driving via semantic masked world model [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/TITS.2024.3400227)
+The lists follow the current manuscript. Reference numbers correspond to its bibliography; papers are listed once, in order of first citation. Industry examples follow the categories and row order of the manuscript tables.
 
-Driving Safety
------
-- Distributed coordinated brake control for longitudinal collision avoidance of multiple connected automated vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9854148)
-- Driver fatigue detection systems: A review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8482470)
-- The multimodal driver monitoring database: A naturalistic corpus to study driver attention [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9507390)
-- Accelerated risk assessment for highly automated vehicles: Surrogate-based monte carlo method [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10337750)
-- Towards socially responsive autonomous vehicles: A reinforcement learning framework with driving priors and coordination awareness [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10315232)
-- Driver activity recognition for intelligent vehicles: A deep learning approach [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8678436)
-- Driver gaze region estimation without use of eye movement [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/7478592)
-- From semi to fully autonomous vehicles: New emerging risks and ethico-legal challenges for human-machine interactions [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S1369847818308556)
-- Experimental security analysis of a modern automobile [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/5504804)
-- Does the ar-hud system affect driving behaviour? an eye-tracking experiment study [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/pii/S2590198223000143)
-- Advancing vulnerable road users safety: Interdisciplinary review on v2x communication and trajectory prediction [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10814969)
-- Vehicle Active Steering Control System Based on Human Mechanical Impedance Properties of the Arms [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/6810159)
+## Paper List
 
-Comfort ＆ Health
------
-- Active-beacon-based driver sound separation system for autonomous vehicle applications [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S0003682X20306538)
-- Haptic assistive control with learning-based driver intent recognition for semi-autonomous vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9662198)
-- Human-machine interaction in intelligent and connected vehicles: A review of status quo, issues, and opportunities [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9629359)
-- Electroencephalogram emotion recognition based on empirical mode decomposition and optimal feature selection [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8452989)
-- Driver inattention monitoring system for intelligent vehicles: A review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/5665773)
-- A feedback active control approach to road noise based on a single microphone sensor to improve automotive cabin sound comfort [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/24/8/2515)
-- Air quality inside motor vehicles' cabins: A review [![SAGE](https://img.shields.io/badge/SAGE-Journals-orange)](https://journals.sagepub.com/doi/abs/10.1177/1420326X16679217)
-- Randomized cross-over study of in-vehicle cabin air filtration, air pollution exposure, and acute changes to heart rate variability, saliva cortisol, and cognitive function [![ACS](https://img.shields.io/badge/ACS-Publications-red)](https://pubs.acs.org/doi/10.1021/acs.est.2c06556)
-- A systematic review on modelling the thermal environment of vehicle cabins [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1359431124018106)
+### Background & Fundamentals
 
-Entertainment ＆ Recreation
------
-- Intelligent in-vehicle interaction technologies [![Wiley](https://img.shields.io/badge/Wiley-Online%20Library-blue?logo=wiley)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202100122)
-- Edge computing for interactive media and video streaming [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/7946410)
-- Safety aspects of in-vehicle infotainment systems: a systematic literature review from 2012 to 2023 [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/2079-9292/13/13/2563)
-- Automotive user interfaces and interactive applications in the car [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s00779-012-0520-7)
-- Design and performance evaluation of human-machine interface in civil aircraft cockpits based on touch interaction technology [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3689236.3696042)
+- [1] Intelligent Cockpit for Intelligent Connected Vehicles: Definition, Taxonomy, Technology and Evaluation [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/tiv.2023.3339798)
+- [2] Scenario-Function System for Automotive Intelligent Cockpits: Framework, Research Progress and Perspectives [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/tiv.2024.3382995)
+- [3] Towards Intelligent Automobile Cockpit via A New Container Architecture [![USENIX](https://img.shields.io/badge/USENIX-Conference-red)](https://www.usenix.org/conference/nsdi24/presentation/jiang-lin)
+- [4] Towards Proactive Interactions for In-Vehicle Conversational Assistants Utilizing Large Language Models [![IJCAI](https://img.shields.io/badge/IJCAI-Proceedings-blue)](https://ijcai.org/proceedings/2024/869)
+- [5] Security Risks and Designs in the Connected Vehicle Ecosystem: In-Vehicle and Edge Platforms [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/OJVT.2024.3524088)
+- [6] Automotive Cockpit-Driving Integration for Human-Centric Autonomous Driving: A Survey [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/thms.2025.3616947)
+- [7] Intelligent Cockpits for Connected Vehicles: Taxonomy, Architecture, Interaction Technologies, and Future Directions [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://doi.org/10.3390/s24165172)
+- [8] Overall Design and Human-Machine Interaction for Intelligent Cockpit: State-of-the-Art Review, Research Challenges, and Future Directions [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://doi.org/10.1007/s42154-026-00473-0)
+- [9] A comprehensive evaluation model for the intelligent automobile cockpit comfort [![Springer Nature](https://img.shields.io/badge/Scientific%20Reports-Nature-red)](https://doi.org/10.1038/s41598-022-19261-x)
+- [10] Development and Evaluation Study of Intelligent Cockpit in the Age of Large Models [![arXiv](https://img.shields.io/badge/arXiv-2409.15795-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.15795)
+- [11] Human-Vehicle Interaction to Support Driver’s Situation Awareness in Automated Vehicles: A Systematic Review [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/tiv.2022.3200826)
+- [12] Intelligent In-Vehicle Interaction Technologies [![Wiley](https://img.shields.io/badge/Wiley-Online%20Library-blue)](https://doi.org/10.1002/aisy.202100122)
+- [13] The Digital Foundation Platform—A Multi-Layered SOA Architecture for Intelligent Connected Vehicle Operating System [![SAE](https://img.shields.io/badge/SAE-View-0072CE)](https://doi.org/10.4271/2022-01-0107)
+- [14] Secure over-the-air software updates in connected vehicles: A survey [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.comnet.2020.107343)
+- [15] Driver Behavior Recognition via Interwoven Deep Convolutional Neural Nets With Multi-Stream Inputs [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/access.2020.3032344)
+- [16] CogEmoNet: A Cognitive-Feature-Augmented Driver Emotion Recognition Model for Smart Cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/tcss.2021.3127935)
+- [17] A comprehensive overview of vehicle to everything (V2X) technology for sustainable EV adoption [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.est.2023.109304)
+- [18] On the Design of Sidelink for Cellular V2X: A Literature Review and Outlook for Future [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/access.2021.3094161)
+- [19] Cockpit-Llama: Driver Intent Prediction in Intelligent Cockpit via Large Language Model [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://doi.org/10.3390/s25010064)
+- [20] Secure Firmware Updates over the Air in Intelligent Vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/iccw.2008.78)
+- [23] A QoS Aware Approach to Service-Oriented Communication in Future Automotive Networks [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/vnc48660.2019.9062794)
+- [24] Detection of Real-World Driving-Induced Affective State Using Physiological Signals and Multi-View Multi-Task Machine Learning [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/aciiw.2019.8925190)
+- [25] An Investigation of the Effect of Smart Cockpit Layout on Distracted Driving Behavior Based on Real Road Experiments [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://doi.org/10.1109/tits.2024.3456785)
+- [26] Retrospective and Future Automotive Infotainment Systems—100 Years of User Interface Evolution [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://doi.org/10.1007/978-3-319-49448-7_1)
+- [28] Automotive HUDs: The Overlooked Safety Issues [![SAGE](https://img.shields.io/badge/SAGE-Journals-orange)](https://doi.org/10.1518/001872097778543840)
+- [31] IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit [![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-blue)](https://aclanthology.org/2025.findings-acl.798/)
 
-Evaluation ＆ Benchmarking
------
-- An evaluation model for the comfort of vehicle intelligent cockpits based on passenger experience [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/2071-1050/14/11/6827)
-- Intelligent car cockpit comfort evaluation model based on svm [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10440081)
-- A comfort evaluation method based on an intelligent car cockpit [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-00CCBB?logo=researchgate)](https://www.researchgate.net/publication/363240226_A_comfort_evaluation_method_based_on_an_intelligent_car_cockpit)
-- Integrated networking, caching, and computing for connected vehicles: A deep reinforcement learning approach [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8061008)
-- Multi-modal user experience evaluation on in-vehicle hmi systems using eye-tracking, facial expression, and finger-tracking for the smart cockpit [![Inderscience](https://img.shields.io/badge/Inderscience-Online%20Library-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJVP.2022.125931)
-- Effects of adaptive cruise control and highly automated driving on workload and situation awareness: A review of the empirical evidence [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847814000904)
-- The evolution of mental model, trust and acceptance of adaptive cruise control in relation to initial information [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S1369847813000028)
-- Drivers’ mental engagement analysis using multi-sensor fusion approaches based on deep convolutional neural networks [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C?logo=mdpi&logoColor=white)](https://www.mdpi.com/1424-8220/23/17/7346/xml)
-- Driver emotion recognition for intelligent vehicles: A survey [![ACM DL](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://dl.acm.org/doi/10.1145/3388790)
-- IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit [![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-blue)](https://aclanthology.org/2025.findings-acl.798/)
+### Driving Convenience
 
-Industry Examples
-=====
-**Table 1: Examples of Driving Convenience.**
+- [32] In-Cabin Monitoring System for Autonomous Vehicles [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://www.mdpi.com/1424-8220/22/12/4360)
+- [33] A Dynamic Neural Field Approach for Intelligent Cockpits: Online Learning and Prediction of Traveling Routines [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10700688/)
+- [35] Human-Machine interfaces and vehicle Automation: A review of the literature and recommendations for system Design, Feedback, and alerts [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.trf.2024.08.014)
+- [36] A Review on the Development of the In-Vehicle Human-Machine Interfaces in Driving Automation: A Design Perspective [![ACM](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://doi.org/10.1145/3640792.3675718)
+- [37] Automotive Augmented Reality Head-Up Displays [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://www.mdpi.com/2072-666X/15/4/442)
+- [38] Driver Interaction Intent Prediction With Dynamic Scene Semantic Fusion for Intelligent Cockpit [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/11339253/)
+- [39] Knowledge graph construction for intelligent cockpits based on large language models [![Springer Nature](https://img.shields.io/badge/Scientific%20Reports-Nature-red)](https://www.nature.com/articles/s41598-025-92002-y)
+- [40] Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments [![arXiv](https://img.shields.io/badge/arXiv-2509.21143v3-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.21143v3)
+- [43] From smart parking towards autonomous valet parking: A survey, challenges and future Works [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.jnca.2020.102935)
+- [44] Toward Reliable and Scalable Internet of Vehicles: Performance Analysis and Resource Management [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8938746/)
+- [45] Vehicular Communication Networks in the Automated Driving Era [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8466351/)
 
-| Technology | Company | Release Year | Function Description | Source |
-|------------|---------|--------------|----------------------|--------|
-| 360° Around-View Monitor | Nissan | 2007 | Synthesizes a bird's-eye view from four cameras to assist parking and narrow-road driving. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://global.nissannews.com/en/releases/071012-01-e) |
-| Transparent Bonnet Concept | Land Rover | 2014 | Uses cameras and projection to reveal terrain hidden beneath the front bonnet. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://media.landrover.com/zh-cn/news/2014/04/luhujiangzai2014beijingchezhangongbuquanqiushouchuangdeyinxingqichejishu) |
-| Xiao-P | XPeng | 2018 | Supports voice-based vehicle control and later multi-command interaction. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xiaopeng.com/news/company_news/1421.html) |
-| Light-Flooding Panorama | XPeng | 2025 | AR-HUD visualizes road conditions and intelligent-driving intent in real time. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xiaopeng.com/news/company_news/5473.html) |
-| Auto Shift | Tesla | 2021 | Assists gear selection between *Drive* and *Reverse* based on vehicle context. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.tesla.com/ownersmanual/modelx/en_us/GUID-E9B387D7-AFEF-4AAF-8685-4FE71E09287D.html) |
-| Yoke Steering | Tesla | 2021 | Uses a yoke-style steering interface to improve instrument-cluster visibility. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.tesla.com/ownersmanual/models/en_us/GUID-DEB259CC-ABAC-4BFC-8D10-B7B1BBCFCB1F.html) |
-| Huawei XLight | Huawei | 2022 | Million-pixel smart lighting supports adaptive beams and road-surface projection. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://auto.huawei.com/cn/intelligent-automotive-optics) |
-| In-Car Xiao-Yi | Huawei/HIMA | 2022 | Provides voice-based vehicle control and context-aware cabin assistance. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://auto.huawei.com/cn/harmonyspace) |
-| Tuling Longxing Platform | MAEXTRO/HIMA | 2025 | Coordinates road preview, torque, steering, and suspension for smoother control. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/zunjie/s800/) |
-| Li Xiang Tongxue | Li Auto | 2023 | Voice assistant for vehicle control, navigation, media, and travel-related tasks. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.lixiang.com/community/detail/article/1078624.html) |
-| Lion AI Voice Assistant | Chery | 2025 | Supports voice control for vehicle functions, navigation, media, and cabin devices. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://chery.co.id/en/tips-and-tricks/intelligent-voice-assistant-feature) |
-| iDrive 8.0 | BMW | 2021 | Integrates personalization and Intelligent Personal Assistant for in-car interaction. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.press.bmwgroup.com/usa/article/detail/T0327734EN_US/the-all-new-bmw-idrive?language=en_US) |
-| Audi Assistant | Audi | 2025 | Localized voice interaction supports wake-up, dialogue, and command execution. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://tech.chinadaily.com.cn/a/202508/18/WS68a29c3ea3104ba1353fd4da.html) |
-| MBUX Virtual Assistant | Mercedes-Benz | 2024 | Generative-AI assistant enables natural, personalized, and proactive interaction. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://group.mercedes-benz.com/technology/specials/ces-2024.html) |
-| Intelligent Smooth Stop (ISS) | NIO | 2023 | Modulates braking force to reduce nose-dive and improve stop comfort. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.nio.com/news/all-new-EC6-launch) |
-| 4D Full-Range Comfort Pilot | NIO | 2024 | Pre-adjusts suspension damping to smooth road bumps and improve ride comfort. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.nio.cn/app-articles/532868) |
-| NOMI AI Companion | NIO | 2025 | In-cabin AI companion with expressive head movement and interactive services. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.nio.cn/news/20250525001) |
-| Onboard Xiao-Ai | Xiaomi | 2024 | Five-zone voice interaction enables hands-free vehicle and ecosystem control. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xiaomiev.com/smartcabin) |
-| Xiaomi Sky Screen | Xiaomi | 2025 | Ultra-wide lower-windshield display with 108 PPD resolution and 1,200-nit brightness. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.mi.com/global/discover/article?id=4925) |
-| 29-inch AR-HUD | Voyah | 2025 | Projects navigation and driving information through a large AR-HUD interface. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.voyah.com.cn/free.html) |
+### Driving Safety
 
-**Table 2: Examples of Driving Safety.**
+- [70] Survey and Synthesis of State of the Art in Driver Monitoring [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://www.mdpi.com/1424-8220/21/16/5558)
+- [71] Driver Activity Recognition for Intelligent Vehicles: A Deep Learning Approach [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/8678436/)
+- [72] The Multimodal Driver Monitoring Database: A Naturalistic Corpus to Study Driver Attention [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9507390/)
+- [74] Haptic Assistive Control With Learning-Based Driver Intent Recognition for Semi-Autonomous Vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9662198/)
+- [75] Comprehensive Experimental Analyses of Automotive Attack Surfaces [![USENIX](https://img.shields.io/badge/USENIX-Conference-red)](https://www.usenix.org/conference/usenix-security-11/comprehensive-experimental-analyses-automotive-attack-surfaces)
+- [77] A Survey and Comparative Analysis of Security Properties of CAN Authentication Protocols [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10735339/)
 
-| Technology | Company | Release Year | Function Description | Source |
-|------------|---------|--------------|----------------------|--------|
-| Sound Field Alert System | Li Auto | 2022 | Uses directional audio cues to warn drivers of risks from different directions. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.lixiang.com/news/55.html) |
-| Lion ADAS System | Chery | 2023 | Integrates common ADAS functions such as ACC, LKA, and AEB. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://chery-digicars.co.za/whats-on/exploring-the-advanced-safety-features-of-the-chery-tiggo-pro-range/) |
-| DMS Driver Monitoring | Chery | 2024 | Monitors fatigue or distraction and provides driver warnings. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://chery-digicars.co.za/whats-on/exploring-the-advanced-safety-features-of-the-chery-tiggo-pro-range/) |
-| Super Privacy Mode | AITO/HIMA | 2024 | One-touch privacy mode disables sensitive sensors and protects in-cabin data. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://aito.auto/model/m9/) |
-| QianKun Cybersecurity Architecture | Huawei | 2025 | Provides layered vehicle cybersecurity, including encryption and diagnostic security. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://auto.huawei.com/cn/news/2025/2025-10-18-cybersecurity-whitepaper) |
-| Omni-Directional Collision Avoidance 4.0 | MAEXTRO/HIMA | 2025 | Provides full-direction active safety with multi-sensor perception. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/zunjie/s800/) |
-| QianKun ADS 4.0 | Huawei | 2025 | Uses an upgraded WEWA architecture and end-to-end models for assisted driving. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://auto.gasgoo.com/news/202504/23I70423522C601.shtml) |
-| AngelGuard Active Safety | MAEXTRO/HIMA | 2025 | Adjusts seat posture, belts, windows, and rescue actions before or after crashes. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://m.bjnews.com.cn/detail/1740039914129322.html) |
-| Privacy Glass with Smart Dimming | MAEXTRO/HIMA | 2025 | Automatically adjusts glass opacity to enhance rear-cabin privacy. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.news.cn/tech/20250531/2eff3ea4019a4de29727ac2600a6d4a4/c.html) |
-| Gemini Redundant Safety Design | MAEXTRO/HIMA | 2025 | Provides redundant computing, power, steering, braking, and distribution systems. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/zunjie/s800/) |
-| Four-Level Unlock Mechanism | MAEXTRO/HIMA | 2025 | Combines mechanical handles, redundant power, and ADS-linked pre-unlocking. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.ithome.com/0/857/322.htm) |
-| UWB Life Detection | MAEXTRO/HIMA | 2025 | Detects subtle in-cabin movements and can activate HVAC for occupant protection. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.news.cn/tech/20250531/2eff3ea4019a4de29727ac2600a6d4a4/c.html) |
-| Tuling Longxing Stability Control | MAEXTRO/HIMA | 2025 | Supports rapid stability control under tire blowout and low-adhesion conditions. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.news.cn/tech/20250220/202afa08cc2943beb56ada400ad2913e/c.html) |
-| Qianli Haohan ADAS | Geely | 2025 | Supports cruise assistance, emergency avoidance, and memory parking. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.news.cn/auto/20250320/2fedd1aa489c4f8987f124324d159b76/c.html) |
-| Turing AI ADAS | XPeng | 2024 | Combines cloud-edge models, in-house chips, and full-scenario assisted driving. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xpeng.com/news/019301d2135392fa562d8a0282200016) |
-| Driver Monitoring System | Voyah | 2025 | Provides fatigue warning and driver-state monitoring for safer driving. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://car.autohome.com.cn/config/spec/73126.html) |
-| Enhanced Sentinel Mode | Xiaomi | 2025 | Uses vehicle perception and large models to summarize high-risk parking events. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.bitauto.com/article/1003101741516/) |
+### Comfort & Health
 
-**Table 3: Examples of Comfort and Health.**
+- [86] A Feedback Active Control Approach to Road Noise Based on a Single Microphone Sensor to Improve Automotive Cabin Sound Comfort [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://www.mdpi.com/1424-8220/24/8/2515)
+- [87] Active-beacon-based driver sound separation system for autonomous vehicle applications [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.apacoust.2020.107549)
+- [88] Air quality inside motor vehicles' cabins: A review [![SAGE](https://img.shields.io/badge/SAGE-Journals-orange)](https://journals.sagepub.com/doi/10.1177/1420326X16679217)
+- [89] Randomized Cross-Over Study of In-Vehicle Cabin Air Filtration, Air Pollution Exposure, and Acute Changes to Heart Rate Variability, Saliva Cortisol, and Cognitive Function [![ACS](https://img.shields.io/badge/ACS-Publications-red)](https://doi.org/10.1021/acs.est.2c06556)
+- [90] A systematic review on modelling the thermal environment of vehicle cabins [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.applthermaleng.2024.124142)
 
-| Technology | Company | Release Year | Function Description | Source |
-|------------|---------|--------------|----------------------|--------|
-| Air Purification System | Chery | 2022 | Filters PM2.5 and microbes to improve in-cabin air quality. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://en.prnasia.com/releases/apac/how-does-chery-s-n95-class-air-conditioning-filter-provide-protection-in-vietnam-under-the-covid-19-pandemic--353000.shtml) |
-| SilkCloud Seat 2.0 | Luxeed/HIMA | 2024 | Uses layered foam with ventilation, heating, massage, and rear recline adjustment. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/zhijie/r7/) |
-| 9-Zone Panoramic Roof | Audi | 2025 | Uses segmented roof lighting and UV-blocking coating for cabin comfort. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.audi.cn/zh/audi_brand/news_experience/news20250423.html) |
-| Bang & Olufsen Audio | Audi | 2025 | 20-speaker 3D sound system with headrest speakers and noise compensation. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.audi-mediacenter.com/en/audi-technology-lexicon-7180/comfort-functions-16760) |
-| 16-Speaker Flyme Sound | Geely | 2025 | Provides 16 speakers and a 7.1.2 surround-sound layout. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://boyue.geely.com/disidaiboyuel) |
-| HUAWEI SOUND ULTIMATE | MAEXTRO/HIMA | 2025 | 43-speaker 7.5.10-channel system for immersive in-cabin audio. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/zunjie/s800/) |
-| Queen Co-Pilot Seat | MAEXTRO/HIMA | 2025 | Provides multi-way adjustment, heating, ventilation, massage, and active bolsters. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/zunjie/s800/) |
-| ActiveSafe Zero-Gravity Seat | MAEXTRO/HIMA | 2025 | Links seat posture with ADS signals to improve comfort and crash protection. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.geekpark.net/news/349994) |
-| Dynamic Light Carpet | MAEXTRO/HIMA | 2025 | Projects adaptive light guidance for driving, lane changes, and narrow-road scenarios. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.news.cn/auto/20250221/e8cd26bdaa00446685e0426eb962d69c/c.html) |
-| ALPS Healthy Cabin | MAEXTRO/HIMA | 2025 | Coordinates sensing and air purification for adaptive healthy-cabin control. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://business.cctv.com/2025/02/24/ARTIFTpIpe1TYEZyL6b5RWm4250224.shtml) |
-| Negative-Ion Purification | MAEXTRO/HIMA | 2025 | Uses dual negative-ion generators to improve cabin air freshness. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://auto.ifeng.com/c/8h8LB3lYyQw) |
-| Cloud Seat 2.0 | Voyah | 2025 | Offers rear comfort seats with recline, heating, ventilation, and massage functions. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://db.m.auto.sohu.com/model_1559/a/913215006_122143) |
-| Triple-Zone Climate | Voyah | 2025 | Provides independent front and rear temperature control. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://db.m.auto.sohu.com/model_1559/a/913215006_122143) |
-| CN95 + Forest Fresh Air | Voyah | 2025 | Combines cabin filtration and comfort-oriented interior materials. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://db.m.auto.sohu.com/model_1559/a/913215006_122143) |
-| 7 L Thermo Fridge | Voyah | 2025 | Provides a 7 L cooling/heating box with a wide temperature range. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://db.m.auto.sohu.com/model_1559/a/913215006_122143) |
-| 256-Color Ambient Lighting | XPeng | 2025 | Hidden diffuse ambient lighting supports 256-color cabin themes. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xiaopeng.com/g7/configuration.html) |
-| 20-Speaker Audio System | XPeng | 2025 | Provides a 20-speaker 7.1.4-channel audio system for immersive sound. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xiaopeng.com/g7/configuration.html) |
+### Entertainment & Recreation
 
-**Table 4: Examples of Entertainment and Recreation.**
+- [96] Edge computing for interactive media and video streaming [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/7946410/)
+- [99] Safety Aspects of In-Vehicle Infotainment Systems: A Systematic Literature Review from 2012 to 2023 [![MDPI](https://img.shields.io/badge/MDPI-Open%20Access-00539C)](https://www.mdpi.com/2079-9292/13/13/2563)
 
-| Technology | Company | Release Year | Function Description | Source |
-|------------|---------|--------------|----------------------|--------|
-| Tesla Arcade | Tesla | 2019 | Provides access to in-car games through Tesla touchscreens. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.wired.com/story/bored-charging-your-tesla-play-videogame-your-car) |
-| BMW Theatre Screen | BMW | 2022 | 31-inch rear display with 32:9 aspect ratio and 8K entertainment support. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.bmw.com.au/au/s/article/BMW-7-Series-2022-Interior-BMW-Theatre-Screen-Description-LD8Ds?language=en_AU) |
-| Lion Melody Audio | Chery | 2023 | Provides multi-speaker surround audio with acoustic tuning. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://chejiahao.m.autohome.com.cn/partner/vivo/info/12403163?isNews=1&showComments=0) |
-| NIO Link Dual-View | NIO | 2023 | Extends phone apps to the center display through dual-window interaction. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://phone.nio.com/) |
-| PanoCinema Digital Cockpit | NIO | 2021 | Combines 23 speakers, Dolby Atmos, and 7.1.4 audio for immersive entertainment. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://news.dolby.com/en-WW/204730-nio-et7-comes-standard-with-dolby-atmos) |
-| Mic-Free Karaoke | NIO | 2024 | Enables in-car karaoke using cabin microphones and AI noise suppression. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.nio.cn/app-articles/532971) |
-| Xopera Music Hall | XPeng | 2022 | Uses Dolby Atmos and multimodal cabin effects for 5D entertainment. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xpeng.com/news/0183689c21ed82358a5f2c9e246a02a1) |
-| 21.4-inch Entertainment Screen | XPeng | 2024 | Provides a rear entertainment display with electric angle adjustment. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.xpeng.com/news/018cc815cf398c57b1842c9e8d7c0186) |
-| App Pinning | Xiaomi | 2023 | Pins mobile apps to the in-car interface for native cross-device interaction. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://displaydaily.com/xiaomis-new-ev-smart-cabin-comes-with-an-assortment-of-displays/) |
-| Smart Karaoke Space | Xiaomi | 2025 | Supports mic-free karaoke in Park mode through the smart cabin. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.mi.com/global/discover/article?id=5174) |
-| Outdoor Karaoke | AITO/HIMA | 2024 | Projects lyrics using intelligent headlights and supports mobile song selection. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://cn.chinadaily.com.cn/a/202404/25/WS6629f137a3109f7860ddaf67.html) |
-| Rear 32-inch Projection Screen | AITO/HIMA | 2025 | Provides a rear projection screen for private viewing and in-cabin entertainment. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.bitauto.com/sg/news/100199020657.html) |
-| MagLink Interface | Huawei/HIMA | 2025 | Connects rear tablets with the vehicle for infotainment and cabin control. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://aito.auto/) |
-| One-Touch Content Streaming | AITO/HIMA | 2025 | Transfers phone content to in-car screens or projection devices. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://hima.auto/wenjie/m9/) |
-| Smart Projection System 2.0 | AITO/HIMA | 2025 | Upgrades in-car laser projection with higher resolution and brightness. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.bitauto.com/sg/news/100199020657.html) |
-| PAD Full-Car Sync | Huawei/HIMA | 2025 | Shares rear-tablet content across cabin displays for synchronized viewing. | [![Source](https://img.shields.io/badge/Source-Link-555?logo=readthedocs&logoColor=white)](https://www.ithome.com/0/852/345.htm) |
+### Evaluation & User Studies
+
+- [139] A comfort evaluation method based on an intelligent car cockpit [![Wiley](https://img.shields.io/badge/Wiley-Online%20Library-blue)](https://onlinelibrary.wiley.com/doi/10.1002/hfm.20973)
+- [140] The evolution of mental model, trust and acceptance of adaptive cruise control in relation to initial information [![Elsevier](https://img.shields.io/badge/Elsevier-ScienceDirect-orange)](https://doi.org/10.1016/j.trf.2012.12.006)
+
+### Challenges & Future Directions
+
+- [141] Review of Electrical and Electronic Architectures for Autonomous Vehicles: Topologies, Networking and Simulators [![Springer](https://img.shields.io/badge/SpringerLink-View-blueviolet)](https://link.springer.com/article/10.1007/s42154-023-00266-9)
+- [143] Driver Emotion Recognition for Intelligent Vehicles: A Survey [![ACM](https://img.shields.io/badge/ACM-Digital%20Library-orange?logo=acm)](https://doi.org/10.1145/3388790)
+- [144] A Survey of EEG-Based Driver State and Behavior Detection for Intelligent Vehicles [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10530424/)
+
+## Industry Examples
+
+Selected product features and identified concepts, organized by their principal cockpit function.
+
+### Driving Convenience
+
+| Feature or System | Company | Implementation and Scope | Source |
+|---|---|---|---|
+| 360° Around-View Monitor | Nissan | Synthesizes a bird's-eye view from four cameras to assist parking and narrow-road driving. | [42](https://global.nissannews.com/en/releases/071012-01-e) |
+| Transparent Bonnet Concept | Land Rover | Uses cameras and projection to reveal terrain hidden beneath the front bonnet. | [46](https://media.jlr.com/discovery/news/2014/04/land-rover-debuts-invisible-car-technology) |
+| Xiao-P | XPeng | Provides voice-based access to supported vehicle and infotainment functions. | [47](https://www.xiaopeng.com/news/company_news/1420.html) |
+| Light-Flooding Panorama | XPeng | AR-HUD visualizes road conditions and intelligent-driving intent in real time. | [48](https://www.xiaopeng.com/news/company_news/5473.html) |
+| Auto Shift | Tesla | Assists selection of Drive or Reverse under supported conditions, with driver verification. | [49](https://www.tesla.com/ownersmanual/modelx/en_us/GUID-E9B387D7-AFEF-4AAF-8685-4FE71E09287D.html) |
+| Yoke Steering | Tesla | Uses a yoke-style interface for steering and associated vehicle controls. | [50](https://www.tesla.com/ownersmanual/models/en_us/GUID-DEB259CC-ABAC-4BFC-8D10-B7B1BBCFCB1F.html) |
+| Huawei XLight | Huawei | Combines adaptive lighting with road-surface projection for visual guidance. | [51](https://m.ithome.com/html/662180.htm) |
+| In-Car Xiao-Yi | Huawei/HIMA | Provides voice-based vehicle control and context-aware cabin assistance. | [52](https://consumer.huawei.com/cn/support/content/zh-cn16043756/) |
+| Li Xiang Tongxue | Li Auto | Voice assistant for vehicle control, navigation, media, and travel-related tasks. | [53](https://www.lixiang.com/community/detail/article/1078624.html) |
+| Intelligent Voice Assistant | Chery | Supports voice control for vehicle functions, navigation, media, and cabin devices. | [54](https://chery.co.id/en/tips-and-tricks/intelligent-voice-assistant-feature) |
+| iDrive 8.0 | BMW | Integrates personalization and Intelligent Personal Assistant for in-car interaction. | [30](https://www.bmwgroup.com/en/news/general/2021/new_bmwidrive.html) |
+| Audi Assistant | Audi | Localized voice interaction supports wake-up, dialogue, and command execution. | [55](https://en.aispeech.com/about/news/30) |
+| MBUX Virtual Assistant | Mercedes-Benz | Provides multi-turn dialogue, short-term memory, and navigation-related assistance in the 2025 CLA. | [56](https://media.mercedes-benz.com/en/article/f736c71c-d384-49fc-82a1-fc80488dfafb) |
+| NOMI AI Companion | NIO | In-cabin AI companion with expressive head movement and interactive services. | [57](https://www.nio.com/news/20250525001) |
+| Onboard Xiao-Ai | Xiaomi | Five-zone voice interaction enables hands-free vehicle and ecosystem control. | [58](https://s1.xiaomiev.com/activity-outer-assets/0328/env/SU7%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE%E8%A1%A8.pdf) |
+| Xiaomi Sky Screen | Xiaomi | Presents driving and vehicle information on a wide display along the lower windshield. | [59](https://www.mi.com/ng/discover/article?id=4958) |
+| 29-inch AR-HUD | Voyah | Projects navigation and driving information through a large AR-HUD interface. | [60](https://m.dsmp.voyah.com.cn/free%2B.html) |
+| Dynamic Light Carpet | MAEXTRO/HIMA | Projects visual guidance onto the road for lane changes and narrow-road scenarios. | [61](https://www.news.cn/auto/20250221/e8cd26bdaa00446685e0426eb962d69c/c.html) |
+| NIO Link Dual-View | NIO | Extends phone apps to the center display through dual-window interaction. | [62](https://phone.nio.com/niolink-guide/how-to-use-nio-phone-in-the-vehicle-centeral-control-screen) |
+| App Pinning | Xiaomi | Displays a compatible phone application's interface within the cockpit desktop, with execution involving the phone. | [63](https://weibo.com/ttarticle/p/show?id=2309405031840825344210) |
+| One-Touch Content Streaming | AITO/HIMA | Uses an NFC tap to initiate transfer of supported navigation, music, or video content from a compatible phone. | [64](https://aito.auto/dam/content/dam/aito/cn/service/pdf/261015/%E9%97%AE%E7%95%8CM9%E5%A2%9E%E7%A8%8B%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+
+### Driving Safety & Security
+
+| Feature or System | Company | Implementation and Scope | Source |
+|---|---|---|---|
+| Sound-Field Warning System | Li Auto | Uses directional audio cues to warn drivers of risks from different directions. | [79](https://www.lixiang.com/news/55.html) |
+| Driver Fatigue Alert | Chery | Uses steering-behavior indicators to prompt a rest break when signs of fatigue are detected. | [80](https://chery-digicars.co.za/whats-on/media/exploring-the-advanced-safety-features-of-the-chery-tiggo-pro-range/) |
+| In-Cabin Privacy Protection | AITO/HIMA | Provides one-touch control of in-cabin microphones, cameras, and AITO app location access. | [64](https://aito.auto/dam/content/dam/aito/cn/service/pdf/261015/%E9%97%AE%E7%95%8CM9%E5%A2%9E%E7%A8%8B%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+| QianKun Cybersecurity Architecture | Huawei | Describes layered vehicle security mechanisms, including encryption and diagnostic access protection. | [81](https://auto.huawei.com/cn/news/2025/2025-10-18-cybersecurity-whitepaper) |
+| AngelGuard Active Safety | MAEXTRO/HIMA | Coordinates seat posture, belt, window, and rescue-related actions around collision events. | [68](https://m.bjnews.com.cn/detail/1740039914129322.html) |
+| Four-Level Unlock Mechanism | MAEXTRO/HIMA | Combines mechanical releases and redundant power with pre-unlocking in Drive when an unavoidable frontal collision is predicted. | [69](https://www.ithome.com/0/857/322.htm), [82](https://hima.auto/zunjie/s800/) |
+| UWB Life Detection | MAEXTRO/HIMA | Detects subtle in-cabin movements and can trigger air-conditioning activation for occupants left in the vehicle. | [83](https://www.news.cn/tech/20250531/2eff3ea4019a4de29727ac2600a6d4a4/c.html) |
+| Driver Monitoring System | Voyah | Monitors driver state and provides fatigue-related warnings. | [84](https://car.autohome.com.cn/config/spec/73126.html) |
+| Enhanced Sentinel Mode | Xiaomi | Uses vehicle perception and large models to summarize high-risk parking events. | [85](https://www.bitauto.com/article/1003101741516/) |
+
+### Comfort & Health
+
+| Feature or System | Company | Implementation and Scope | Source |
+|---|---|---|---|
+| Air Purification System | Chery | Uses cabin filtration to reduce particulate exposure. | [92](https://en.prnasia.com/releases/apac/how-does-chery-s-n95-class-air-conditioning-filter-provide-protection-in-vietnam-under-the-covid-19-pandemic--353000.shtml) |
+| R7 Comfort Seats | Luxeed/HIMA | Combines layered seat cushioning with ventilation, massage, and rear-seat recline adjustment. | [91](https://www.luxeed-auto.com/r7) |
+| 9-Zone Panoramic Roof | Audi | Provides segmented glazing control and UV-blocking treatment for the cabin light environment. | [93](https://www.audi.cn/zh/audi_brand_campaign_landing_page/Audi_A5L.html) |
+| Adjustable Front-Passenger Seat | MAEXTRO/HIMA | Provides electric adjustment, heating, ventilation, and backrest massage. | [94](https://hima.auto/zunjie/s800/configuration/) |
+| ActiveSafe Zero-Gravity Seat | MAEXTRO/HIMA | In four-seat Executive variants, rear seats coordinate posture adjustment with assistance-system signals for protection preparation. | [82](https://hima.auto/zunjie/s800/) |
+| Air-Quality Monitoring | MAEXTRO/HIMA | Combines cabin/exterior particulate sensing with automatic air-quality control. | [94](https://hima.auto/zunjie/s800/configuration/) |
+| Dual Ion Generators | MAEXTRO/HIMA | Includes dual ion generators as part of the cabin air-treatment package. | [94](https://hima.auto/zunjie/s800/configuration/) |
+| Front-Passenger Comfort Seat | Voyah | Provides an adjustable front-passenger comfort seat with heating, ventilation, and massage. | [60](https://m.dsmp.voyah.com.cn/free%2B.html) |
+| Triple-Zone Climate | Voyah | Provides independent front and rear temperature control. | [60](https://m.dsmp.voyah.com.cn/free%2B.html) |
+| 7 L Thermo Fridge | Voyah | Provides a 7 L cooling/heating box with a wide temperature range. | [60](https://m.dsmp.voyah.com.cn/free%2B.html) |
+| 256-Color Ambient Lighting | XPeng | Diffuse ambient lighting supports 256-color cabin themes. | [95](https://www.xiaopeng.com/g7/configuration.html) |
+| Privacy Glass with Smart Dimming | MAEXTRO/HIMA | Adjusts glass transmittance for rear-cabin privacy and light control. | [83](https://www.news.cn/tech/20250531/2eff3ea4019a4de29727ac2600a6d4a4/c.html) |
+
+### Entertainment & Recreation
+
+| Feature or System | Company | Implementation and Scope | Source |
+|---|---|---|---|
+| Tesla Arcade | Tesla | Provides touchscreen games for use while the vehicle is parked. | [100](https://www.tesla.com/ownersmanual/models/en_us/GUID-79A49D40-A028-435B-A7F6-8E48846AB9E9.html) |
+| BMW Theatre Screen | BMW | Uses a 31.3-inch, 32:9, 8K rear display that folds down from the roof. | [97](https://newsroom.bmwgroup.com/global/the-new-bmw-7-series_20260723070028944) |
+| Lion Melody Audio | EXEED/Chery | Provides a 23-speaker audio system in the cited Lingyun configuration. | [101](https://www.exeedcars.com/xt/lingyun/) |
+| PanoCinema Digital Cockpit | NIO | Combines 23 speakers, Dolby Atmos, and 7.1.4 audio for immersive entertainment. | [102](https://www.nio.com/en_US/blog/nio-es7-bringing-you-immersive-experience) |
+| Mic-Free Karaoke | NIO | Supports in-car karaoke without a handheld microphone. | [103](https://vomtools.nio.com/v2/config-table/configList?carType=ES6&wv=do) |
+| Xopera Music Hall | XPeng | Coordinates spatial audio with cabin effects for multimedia playback. | [104](https://www.xpeng.com/news/0183689c21ed82358a5f2c9e246a02a1) |
+| 21.4-inch Entertainment Screen | XPeng | Provides a rear entertainment display with electric angle adjustment. | [105](https://www.xpeng.com/news/018cc815cf398c57b1842c9e8d7c0186), [Manual](https://xpeng.co.th/wp-content/uploads/2026/06/Xpeng-X9-User-Manual-%28English%29-2-rev.pdf) |
+| Mic-Free Karaoke | Xiaomi | Supports mic-free karaoke in the Xiaomi YU7 cabin while in Park. | [106](https://www.mi.com/global/discover/article?id=5174) |
+| Outdoor Karaoke | AITO/HIMA | Projects lyrics using intelligent headlights and supports mobile song selection. | [107](https://cn.chinadaily.com.cn/a/202404/25/WS6629f137a3109f7860ddaf67.html), [64](https://aito.auto/dam/content/dam/aito/cn/service/pdf/261015/%E9%97%AE%E7%95%8CM9%E5%A2%9E%E7%A8%8B%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+| Rear 32-inch Projection Screen | AITO/HIMA | Combines a rear projection screen with the upgraded in-cabin projection system. | [98](https://www.bitauto.com/sg/news/100199020657.html) |
+| MagLink Interface | Huawei/HIMA | Supports tablet mounting and power through accessories, with software integration for media and selected cabin controls. | [64](https://aito.auto/dam/content/dam/aito/cn/service/pdf/261015/%E9%97%AE%E7%95%8CM9%E5%A2%9E%E7%A8%8B%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+| PAD Full-Car Sync | Huawei/HIMA | Shares rear-tablet content across cabin displays for synchronized viewing. | [108](https://www.ithome.com/0/852/345.htm) |
+| Bang & Olufsen Audio | Audi | 20-speaker 3D sound system with headrest speakers and noise compensation. | [109](https://www.audi.com/en/audi-technology-lexicon-7180/comfort-functions-16760) |
+| 16-Speaker Flyme Sound | Geely | Provides 16 speakers and a 7.1.2 surround-sound layout. | [110](https://xinwen.bjd.com.cn/content/s6826e614e4b0ec1c3d972449.html) |
+| HUAWEI SOUND ULTIMATE | MAEXTRO/HIMA | Offers a 43-speaker, 7.5.10-channel configuration in four-seat Executive variants. | [94](https://hima.auto/zunjie/s800/configuration/) |
+| 20-Speaker Audio System | XPeng | Provides a 20-speaker 7.1.4-channel audio system for immersive sound. | [95](https://www.xiaopeng.com/g7/configuration.html) |
+
+## Standards, Protocols & Platform Documentation
+
+Editions and versions below match those cited in the manuscript.
+
+- [21] SAE J3016_202609 — Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles — [SAE](https://doi.org/10.4271/J3016_202609)
+- [22] Explanation of Adaptive Platform Software Architecture (AUTOSAR AP R25-11) — [AUTOSAR](https://www.autosar.org/fileadmin/standards/R25-11/AP/AUTOSAR_AP_EXP_SWArchitecture.pdf)
+- [34] Guidelines 01/2020 on processing personal data in the context of connected vehicles and mobility related applications — [EDPB](https://www.edpb.europa.eu/documents/guideline/guidelines-012020-on-processing-personal-data-in-the-context-of-connected_en)
+- [41] Vehicle System Isolation — [Android](https://source.android.com/docs/automotive/security/vehicle_system_isolation)
+- [65] ISO 26262-4:2018 Road vehicles – Functional safety – Part 4: Product development at the system level — [ISO](https://www.iso.org/standard/68386.html)
+- [66] ISO 21448:2022 Road vehicles – Safety of the intended functionality — [ISO](https://www.iso.org/standard/77490.html)
+- [73] ISO/TS 16951:2021 Road vehicles – Ergonomic aspects of transport information and control systems (TICS) – Procedures for determining priority of on-board messages presented to drivers — [ISO](https://www.iso.org/standard/81103.html)
+- [76] Uptane Standard for Design and Implementation 2.1.0 — [Uptane](https://uptane.org/docs/latest/standard/uptane-standard)
+- [78] ISO/SAE 21434:2021 Road vehicles – Cybersecurity engineering — [ISO](https://www.iso.org/standard/70918.html)
+- [125] ISO 15005:2017 Road vehicles – Ergonomic aspects of transportation and control systems – Dialogue management principles and compliance procedures — [ISO](https://www.iso.org/standard/69238.html)
+- [126] ISO 15006:2011 Road vehicles – Ergonomic aspects of transport information and control systems – Specifications for in-vehicle auditory presentation — [ISO](https://www.iso.org/standard/55322.html)
+- [127] IEEE 802.1AS-2025 – IEEE Standard for Local and Metropolitan Area Networks – Timing and Synchronization for Time-Sensitive Applications — [IEEE](https://standards.ieee.org/ieee/802.1AS/11968/)
+- [128] ISO 15008:2017 Road vehicles – Ergonomic aspects of transport information and control systems – Specifications and test procedures for in-vehicle visual presentation — [ISO](https://www.iso.org/standard/62784.html)
+- [129] ISO 16750-1:2023 Road vehicles – Environmental conditions and testing for electrical and electronic equipment – Part 1: General — [ISO](https://www.iso.org/standard/77578.html)
+- [130] IEC 60068-2-14:2023 Environmental testing – Part 2-14: Tests – Test N: Change of temperature — [IEC](https://webstore.iec.ch/en/publication/71503)
+- [131] IEC 60068-2-78:2025 Environmental testing – Part 2-78: Tests – Test Cab: Damp heat, steady state — [IEC](https://webstore.iec.ch/en/publication/82357)
+- [132] ISO/PAS 8800:2024 Road vehicles – Safety and artificial intelligence — [ISO](https://www.iso.org/standard/83303.html)
+- [133] UN Regulation No. 155 – Cyber security and cyber security management system — [UNECE](https://eur-lex.europa.eu/eli/reg/2021/387/oj/eng/pdf)
+- [134] Assisted Driving: Highway & Interurban Assist Systems Protocol (Version 1.2, July 2026) — [Euro NCAP](https://cdn.euroncap.com/cars/assets/Euro_NCAP_Protocol_Assisted_Driving_v1_2_7150e4e41e.pdf)
+- [135] ISO 9241-11:2018 Ergonomics of human-system interaction – Part 11: Usability: Definitions and concepts — [ISO](https://www.iso.org/standard/63500.html)
+- [136] ISO 9241-210:2019 Ergonomics of human-system interaction – Part 210: Human-centred design for interactive systems — [ISO](https://www.iso.org/standard/77520.html)
+- [137] ISO 16673:2017 Road vehicles – Ergonomic aspects of transport information and control systems – Occlusion method to assess visual demand due to the use of in-vehicle systems — [ISO](https://www.iso.org/standard/71508.html)
+- [138] ISO 8202:2025 Road vehicles – Box task and detection response task to measure visual-manual and cognitive demand — [ISO](https://www.iso.org/standard/83058.html)
+- [142] UN Regulation No. 156 – Uniform provisions concerning the approval of vehicles with regards to software update and software updates management system — [UNECE](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=uriserv%3AOJ.L_.2021.082.01.0060.01.ENG)
+
+## Market Adoption Sources
+
+Sources used for the reported connectivity, OTA, cockpit domain-controller, and W/AR-HUD adoption trends.
+
+- [111] Huihan Makes Another IPO Bid as Its Automotive T-Box Business Remains Concentrated among Existing Customers — [Source](https://www.eet-china.com/mp/a147023.html)
+- [112] The 5G/V2X Market Restarts — [Source](https://www.eet-china.com/mp/a209553.html)
+- [113] Factory-Fitted 5G Installations Double: V2X, Active Safety, and Vehicle–Cloud Architectures Create New Opportunities — [Source](https://www.eet-china.com/mp/a293055.html)
+- [114] Data Empowerment and Circulation in Intelligent Connected Vehicles — [Official page](https://www.sae-china.org/news/society/202507/7021.html)
+- [115] From Connectivity to Reliable Automated-Driving Services: Building the Digital Foundation for Level 3 — [Source](https://www.sohu.com/a/1002788565_121136454)
+- [116] Top Ten OTA Suppliers: Third-Party Providers Pursue Growth in the Intelligent-Vehicle Market — [Source](https://www.eet-china.com/mp/a145423.html)
+- [117] The OTA Market Enters a New Growth Phase: Paid Automotive Software Services in China — [Official page](https://www.abupdate.com/index.php?id=474)
+- [118] Automotive Intelligence Monthly, No. 33: December Urban NOA Penetration Reaches 23%; XPeng Releases Its Second-Generation VLA — [Report (PDF)](https://pdf.dfcfw.com/pdf/H3_AP202603101820436466_1.pdf)
+- [119] 2025 Cockpit Domain-Controller Rankings: SiEngine Continues to Lead Domestic Chip Suppliers — [Source](https://www.eet-china.com/mp/a477457.html)
+- [120] Li Auto L9: New Trends in Intelligent Cockpits — [Source](https://www.eet-china.com/mp/a141271.html)
+- [121] Investment in Head-Up Displays as Factory-Fit Penetration Is Forecast to Exceed 30 Percent by 2025 — [Source](https://www.eet-china.com/mp/a204461.html)
+- [122] LCoS Opportunities in the Evolving Automotive HUD Market — [Source](https://www.eet-china.com/mp/a314501.html)
+- [123] AR-HUD Supplier Rankings: Domestic Companies Reshape the Market — [Source](https://finance.sina.com.cn/stock/relnews/cn/2025-05-08/doc-inevvwyt2513075.shtml)
+- [124] Zejing's Hong Kong IPO and the Global Expansion of Chinese Automotive Electronics — [Source](https://www.eet-china.com/mp/a483305.html)
+
+## Historical & Technical Sources
+
+- [27] Toyota Unveils New Super Gran Turismo Soarer with Newly Developed 6-Cylinder DOHC Twin-Cam 6 Engine — [Official page](https://global.toyota/en/detail/7597746)
+- [29] 20 Years of the BMW iDrive: The Story — [Official page](https://www.bmwgroup.com/en/news/general/2021/idrive_history.html)
+- [67] How Tesla Vision Helps Deploy Airbags Earlier — [Tesla](https://www.youtube.com/watch?v=Vb-OqxUWPDE)
