@@ -2,8 +2,6 @@
 
 A collection of literature and industry examples accompanying our paper **"Modern Automotive Intelligent Cockpit: Technical Architecture, Taxonomy and Future Development"**.
 
-The lists follow the current manuscript. Reference numbers correspond to its bibliography; papers are listed once, in order of first citation. Industry examples follow the categories and row order of the manuscript tables.
-
 ## Paper List
 
 ### Background & Fundamentals
